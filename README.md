@@ -1,6 +1,11 @@
 
 # API Project: Timestamp Microservice for FCC
 
+Get a timestamp from either date or unix date
+
+## Installation
+Download the files [here](https://github.com/Stevegolden12/boilerplate-project-timestamp)
+
 ### User stories :
 
 1. The API endpoint is `GET [project_url]/api/timestamp/:date_string?`
@@ -17,3 +22,7 @@ e.g. `{"unix": 1479663089000 ,"utc": "Sun, 20 Nov 2016 17:31:29 GMT"}`.
 
 #### Example output:
 * { "unix": 1450137600, "natural": "December 15, 2015" }
+
+#### Acknowledgement
+
+Thank you to freeCodeCamp for helping me learn to build this project.
