@@ -5,6 +5,7 @@ Get a timestamp from either date or unix date
 
 ## Installation
 Download the files [here](https://github.com/Stevegolden12/boilerplate-project-timestamp)
+open in views folder: index.html
 
 ### User stories :
 
